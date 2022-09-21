@@ -1,2 +1,6 @@
-print("Second file printed")
-print('i have added something new on 20th september')
+user=input('how many rows of stars u need')
+for element in range(int(user)):
+    for j in
+        print('*')
+
+
