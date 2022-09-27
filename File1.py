@@ -7,4 +7,3 @@ for element in l1:
         l2.append(element)
 print(l2,"is a list of even numbers")
 
-print('I have addee something new today on 20th sep')
